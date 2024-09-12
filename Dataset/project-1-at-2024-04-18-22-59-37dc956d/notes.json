@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "10DT"
+    },
+    {
+      "id": 1,
+      "name": "20DT"
+    },
+    {
+      "id": 2,
+      "name": "50DT"
+    },
+    {
+      "id": 3,
+      "name": "5DT"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
